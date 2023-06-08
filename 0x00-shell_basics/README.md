@@ -1,1 +1,2 @@
-This prints absolute pathname of current working directory
+pwd - This prints absolute pathname of current working directory
+ls - This list contents of current directory
