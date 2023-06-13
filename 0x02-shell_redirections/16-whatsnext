@@ -1,2 +1,2 @@
 #!/bin/bash
-cat /etc/passwd | grep -nC 3 root
+cat /etc/passwd | grep -nC 3 root | sort
