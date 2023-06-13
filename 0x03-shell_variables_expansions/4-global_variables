@@ -1,2 +1,2 @@
 #!/bin/bash
-printenv | head -n 8
+printenv | less
