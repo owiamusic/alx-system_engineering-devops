@@ -1,2 +1,2 @@
 #!/bin/bash
-echo () { Name="BEST" Value="School" }
+BEST=School
